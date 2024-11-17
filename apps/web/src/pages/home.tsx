@@ -3,7 +3,6 @@ import {
     DropletsIcon,
     SunIcon,
     RadioIcon,
-    Utensils,
     UtensilsCrossed,
 } from "lucide-react";
 
